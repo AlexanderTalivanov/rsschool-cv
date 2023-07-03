@@ -1,14 +1,14 @@
 
 # **Alexandr Talivanov**
 
-## **Contacts**[](https://kryvetski-andrei.github.io/rsschool-cv/cv#contacts)
+## **Contacts**
 
 -   **Location:**  Orsha, Belarus
 -   **Phone:**  +375 29 219-07-28
 -   **Email:**  **talivanof@mail.ru**
 -   **GitHub:**  https://github.com/AlexanderTalivanov/rsschool-cv
 
-## **About Me**[](https://kryvetski-andrei.github.io/rsschool-cv/cv#about-me)
+## **About Me**
 
 Efficiency, purposefulness, resistance to stress, ability to work in a team, discipline, accuracy.
 Additional information:
@@ -19,7 +19,7 @@ Possibility of business trips: yes.
 There are no bad habits.
 
 
-## **Skills**[](https://kryvetski-andrei.github.io/rsschool-cv/cv#skills)
+## **Skills**
 
 -   HTML
 -   CSS
@@ -27,17 +27,17 @@ There are no bad habits.
 -   React (Basic)
 -   Git
 
-## **Code Example**[](https://kryvetski-andrei.github.io/rsschool-cv/cv#code-example)
+## **Code Example**
 
 ```
 for  (let i = 0; i < 8; i++ )  alert( i );
 ```
 
-## **Education**[](https://kryvetski-andrei.github.io/rsschool-cv/cv#education)
+## **Education**
 
 -   **University:**  higher (VSU named after P.M. Masherov)
 
-## **English**[](https://kryvetski-andrei.github.io/rsschool-cv/cv#english)
+## **English**
 
 **A1**  (A basic level of)
 ```
